@@ -1,0 +1,7 @@
+{
+  "name": "solar-load-project",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
