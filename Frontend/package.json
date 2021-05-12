@@ -24,7 +24,7 @@
     "@ionic-native/core": "^5.22.0",
     "@ionic/angular": "^5.0.5",
     "bootstrap": "^4.4.1",
-    "chart.js": "^2.9.3",
+    "chart.js": "^2.9.4",
     "cordova-plugin-battery-status": "^2.0.3",
     "ionic-angular": "^3.9.9",
     "jquery": "^3.4.1",
